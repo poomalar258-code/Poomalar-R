@@ -1,7 +1,8 @@
 <div align="center">
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
-</p>
+
+<div align="center">
+  <img src="YOUR_GIF_LINK_HERE" width="500"/>
+</div>
 
 # Hi 👋, I'm Poomalar R
 
