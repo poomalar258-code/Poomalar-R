@@ -1,8 +1,8 @@
 <div align="center">
 
-<div align="center">
-  <img src="assets/girl-coding.gif" width="400"/>
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="450"/>
+</p>
 
 # Hi 👋, I'm Poomalar R
 
