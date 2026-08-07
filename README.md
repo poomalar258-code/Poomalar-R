@@ -1,18 +1,32 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Girl"/>
 
 # Hi 👋, I'm Poomalar R
 
 ### 🎓 Electrical & Electronics Engineering Graduate
+
 ### 💻 Embedded Systems | Embedded C | Linux | Power Electronics
 
 <p align="center">
-I am passionate about designing embedded systems, developing firmware, and solving real-world engineering problems. My interests include Embedded C, Linux, communication protocols, and renewable energy technologies. I enjoy learning new technologies and building practical projects that bridge hardware and software.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer;Embedded+C+Developer;Linux+Learner;Power+Electronics+Enthusiast;Always+Learning+🚀"/>
 </p>
+
+<p align="center">
+<a href="https://linkedin.com/in/poomalar-r-3b6a172b5">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:poomalar258@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -20,34 +34,34 @@ I am passionate about designing embedded systems, developing firmware, and solvi
 
 # 🚀 About Me
 
-🎓 B.E. in Electrical and Electronics Engineering (CGPA: 8.2)
+🎓 B.E. in Electrical and Electronics Engineering (CGPA: **8.2**)
 
-💻 Passionate about Embedded Systems, Embedded Linux, and C Programming.
+💻 Passionate about **Embedded Systems, Embedded Linux, and C Programming**.
 
-🔧 Hands-on experience with Embedded Systems, Power Electronics, and Renewable Energy projects.
+🔧 Hands-on experience with **Embedded Systems, Power Electronics, and Renewable Energy Projects**.
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 - Embedded Linux
-- Device Drivers
+- Linux Device Drivers
 - Data Structures & Algorithms
 - ARM Architecture
 - Git & GitHub
 
-🎯 Career Goal
+🎯 **Career Goal**
 
-To become an Embedded Software Engineer by building reliable firmware and embedded applications for real-world products.
+To become an **Embedded Software Engineer** by building reliable firmware and embedded applications for real-world products.
 
 ---
 
 # 🛠️ Skills & Technologies
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 - C
 - Python (Basics)
 
-### ⚙️ Embedded Systems
+## ⚙️ Embedded Systems
 
 - Embedded C
 - ARM LPC2129
@@ -60,15 +74,14 @@ To become an Embedded Software Engineer by building reliable firmware and embedd
 - DAC
 - LCD Interfacing
 
-### 📡 Communication Protocols
+## 📡 Communication Protocols
 
 - UART
 - SPI
 - I2C
-- CAN (Basics)
-- USB (Basics)
-
-### 🐧 Operating Systems
+- CAN
+  
+## 🐧Operating Systems
 
 - Linux
 - Shell Programming
@@ -76,19 +89,20 @@ To become an Embedded Software Engineer by building reliable firmware and embedd
 - fork()
 - Copy-on-Write (COW)
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 
 - Keil uVision
 - Proteus
 - MATLAB
 - Arduino IDE
 
+
 ---
 
 # 📌 Featured Projects
 
-| Project | Description |
-|---------|-------------|
+| 🚀 Project | 📖 Description |
+|------------|----------------|
 | 🚗 **Next-Gen EV Wireless Charging Infrastructure** | Solar-integrated wireless EV charging system using Embedded C and Arduino |
 | ⚡ **High-Gain Boost Converter** | MATLAB-based converter design for high-efficiency power conversion |
 | 🔋 **Wireless Power Transfer** | Efficient wireless charging using TX/RX coils |
@@ -98,25 +112,21 @@ To become an Embedded Software Engineer by building reliable firmware and embedd
 
 # 💼 Internship Experience
 
-## 🚇 Chennai Metro Rail Limited (CMRL)
+### 🚇 Chennai Metro Rail Limited (CMRL)
 
-- Worked with SCADA systems
-- Industrial automation
-- Power distribution
-- Relay operations
-- Real-time monitoring
+- SCADA Systems
+- Industrial Automation
+- Power Distribution
+- Relay Operations
+- Real-Time Monitoring
 
----
+### ☀️ Cluster Energy Technology
 
-## ☀️ Cluster Energy Technology
-
-- Solar PV systems
+- Solar PV Systems
 - Renewable Energy
 - Industrial Solar Installation
 
----
-
-## 🔬 CSIR – Madras Complex (CEERI)
+### 🔬 CSIR – Madras Complex (CEERI)
 
 - High-Gain Boost Converter
 - MATLAB Simulation
@@ -127,25 +137,21 @@ To become an Embedded Software Engineer by building reliable firmware and embedd
 
 # 📜 Certifications
 
-- Python for Data Science – NPTEL
-- Data Analytics with Python – NPTEL
-- MATLAB Power Electronics Simulation
-- EV Technology Workshop
-- Vehicle Design & Charging Systems Workshop
+- 🏅 Python for Data Science – NPTEL
+- 🏅 Data Analytics with Python – NPTEL
+- 🏅 MATLAB Power Electronics Simulation
+- 🏅 EV Technology Workshop
+- 🏅 Vehicle Design & Charging Systems Workshop
 
 ---
 
 # 🏆 Achievements
 
-🏅 Published Research Paper – ICSTEM
-
-🏅 Presented Paper at International Conference
-
-🏅 Presented Paper at National Level Symposium
+- 🥇 Published Research Paper – **ICSTEM**
+- 🥇 Presented Paper at **International Conference**
+- 🥇 Presented Paper at **National Level Symposium**
 
 ---
-
-
 
 # 🌱 Currently Learning
 
@@ -155,12 +161,11 @@ To become an Embedded Software Engineer by building reliable firmware and embedd
 - Embedded C
 - Communication Protocols
 
-
 ---
 
 # 📫 Reach Me
 
-📧 **Email:** poomalar258@gmail.com
+📧 **Email:** **poomalar258@gmail.com**
 
 💼 **LinkedIn:** https://linkedin.com/in/poomalar-r-3b6a172b5
 
@@ -180,6 +185,6 @@ To become an Embedded Software Engineer by building reliable firmware and embedd
 
 If you like my projects, don't forget to ⭐ my repositories.
 
-Happy Coding! 🚀
+🚀 Happy Coding!
 
 </div>
