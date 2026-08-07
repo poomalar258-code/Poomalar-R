@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="500"/>
+  <img src="assets/girl-coding.gif" width="400"/>
 </div>
 
 # Hi 👋, I'm Poomalar R
