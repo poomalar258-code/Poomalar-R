@@ -77,9 +77,6 @@ To become an Embedded Software Engineer by building reliable firmware and embedd
 - Proteus
 - MATLAB
 - Arduino IDE
-- VS Code
-- Git
-- GitHub
 
 ---
 
@@ -168,7 +165,7 @@ To become an Embedded Software Engineer by building reliable firmware and embedd
 - RTOS Fundamentals
 - Embedded C
 - Communication Protocols
-- Git & GitHub
+
 
 ---
 
