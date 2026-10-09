@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Girl"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Animation"/>
 
 # Hi 👋, I'm Poomalar R
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/poomalar-r-3b6a172b5">
+<a href="https://linkedin.com/in/poomalar">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -21,12 +21,12 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/poomalar258-code">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=poomalar258-code&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -34,23 +34,17 @@
 
 # 🚀 About Me
 
-🎓 B.E. in Electrical and Electronics Engineering (CGPA: **8.2**)
+🎓 B.E. in Electrical and Electronics Engineering from RRASE College of Engineering.
 
-💻 Passionate about **Embedded Systems, Embedded Linux, and C Programming**.
+📊 Graduated with a CGPA of **8.2**.
 
-🔧 Hands-on experience with **Embedded Systems, Power Electronics, and Renewable Energy Projects**.
+💻 Strong foundation in **C, C++, Embedded C, and Embedded Systems**.
 
-🌱 **Currently Learning**
+⚙️ Interested in microcontrollers, communication protocols, Linux, RTOS, and power electronics.
 
-- Embedded Linux
-- Linux Device Drivers
-- Data Structures & Algorithms
-- ARM Architecture
-- Git & GitHub
+🔬 Hands-on project and internship experience in embedded system development, solar energy systems, and power converter simulation.
 
-🎯 **Career Goal**
-
-To become an **Embedded Software Engineer** by building reliable firmware and embedded applications for real-world products.
+🎯 **Career Goal:** To become an Embedded Software Engineer and contribute to developing reliable embedded applications and firmware.
 
 ---
 
@@ -59,20 +53,18 @@ To become an **Embedded Software Engineer** by building reliable firmware and em
 ## 💻 Programming Languages
 
 - C
-- Python (Basics)
-
-## ⚙️ Embedded Systems
-
+- C++
 - Embedded C
+
+## ⚙️ Embedded Systems & Technologies
+
 - ARM LPC2129
 - Arduino Uno
-- GPIO
-- Timers
-- External Interrupts
-- PWM
-- ADC
-- DAC
+- Embedded System Development
+- Microcontroller Interfacing
 - LCD Interfacing
+- PWM
+- RTOS Fundamentals
 
 ## 📡 Communication Protocols
 
@@ -80,76 +72,94 @@ To become an **Embedded Software Engineer** by building reliable firmware and em
 - SPI
 - I2C
 - CAN
-  
-## 🐧Operating Systems
+- TCP/IP
+
+## 🐧 Operating Systems
 
 - Linux
-- Shell Programming
-- Process Management
-- fork()
-- Copy-on-Write (COW)
 
 ## 🧰 Tools & Platforms
 
-- Keil uVision
+- Keil IDE
+- Arduino IDE
 - Proteus
 - MATLAB
-- Arduino IDE
-
+- MATLAB/Simulink
+- CANoe
 
 ---
 
 # 📌 Featured Projects
 
-| 🚀 Project | 📖 Description |
-|------------|----------------|
-| 🚗 **Next-Gen EV Wireless Charging Infrastructure** | Solar-integrated wireless EV charging system using Embedded C and Arduino |
-| ⚡ **High-Gain Boost Converter** | MATLAB-based converter design for high-efficiency power conversion |
-| 🔋 **Wireless Power Transfer** | Efficient wireless charging using TX/RX coils |
-| ☀️ **Solar EV Charging System** | Renewable energy integration for EV charging applications |
+## 🚗 1. Next-Gen EV Wireless Charging Infrastructure with Integrated Sustainable Green Energy
+
+**Technologies:** Embedded Systems, Arduino, Wireless Power Transfer, Solar Energy, MATLAB/Simulink
+
+- Designed and simulated a grid-isolated solar EV ecosystem integrated with dynamic wireless charging.
+- Evaluated system performance and multi-node transmission using simulation-based models.
+- Studied power management techniques to improve wireless charging efficiency and support sustainable energy integration.
+
+## ⚡ 2. High-Gain Boost Converter Design & Optimization
+
+**Technologies:** MATLAB, MATLAB/Simulink, Power Electronics
+
+- Simulated and analyzed high-gain step-up converter topologies for industrial applications.
+- Evaluated converter design parameters to improve efficiency, stability, and protection.
+- Validated performance through MATLAB simulations under varying load conditions.
+
+## 🛡️ 3. BattleGuard – Advanced Military Access Control and Authentication System Using RFID and CAN Communication
+
+**Technologies:** Embedded C, LPC2129, RFID, CAN, UART, GSM, PWM, LCD, Keil IDE
+
+- Developed an RFID-based authentication system using an EM-18 reader and LPC2129 microcontroller.
+- Implemented CAN communication between multiple microcontroller nodes and controlled a servo gate using PWM.
+- Integrated a 20×4 LCD, LED, buzzer, UART-based RFID interfacing, and GSM notifications for authentication results.
 
 ---
 
 # 💼 Internship Experience
 
-### 🚇 Chennai Metro Rail Limited (CMRL)
+## 🚇 Chennai Metro Rail Limited (CMRL)
 
-- SCADA Systems
-- Industrial Automation
-- Power Distribution
-- Relay Operations
-- Real-Time Monitoring
+**Role:** Intern | February 2026 – March 2026
 
-### ☀️ Cluster Energy Technology
+- Gained exposure to SCADA-based monitoring and control systems.
+- Learned about industrial automation, power distribution networks, and real-time system supervision.
+- Observed the integration of control hardware and communication infrastructure used in metro operations.
 
-- Solar PV Systems
-- Renewable Energy
-- Industrial Solar Installation
+## ☀️ Cluster Energy Technology
 
-### 🔬 CSIR – Madras Complex (CEERI)
+**Role:** Industrial Trainee | June 2025 – August 2025
 
-- High-Gain Boost Converter
-- MATLAB Simulation
-- Converter Optimization
-- Research & Development
+- Studied solar electric power generation and green energy systems.
+- Gained exposure to industrial solar panel installation workflows and field operations.
+
+## 🔬 CSIR – Madras Complex (CEERI)
+
+**Role:** Research Intern | February 2025 – April 2025
+
+- Worked with the research team on high-gain boost converter development.
+- Modeled and verified converter topology using MATLAB.
+- Studied converter performance and optimization techniques.
 
 ---
 
-# 📜 Certifications
+# 📜 Certifications & Workshops
 
+- 🏅 Advanced Power Electronics & Control – NPTEL
+- 🏅 Power Electronics Simulation Onramp – MATLAB
 - 🏅 Python for Data Science – NPTEL
 - 🏅 Data Analytics with Python – NPTEL
-- 🏅 MATLAB Power Electronics Simulation
-- 🏅 EV Technology Workshop
-- 🏅 Vehicle Design & Charging Systems Workshop
+- 🏅 EV Technology Workshop – HIEE
+- 🏅 Vehicle Design & Charging Systems Workshop – Crescent Institute
 
 ---
 
 # 🏆 Achievements
 
-- 🥇 Published Research Paper – **ICSTEM**
-- 🥇 Presented Paper at **International Conference**
-- 🥇 Presented Paper at **National Level Symposium**
+- 🥇 Published a research paper at the International Conference on Sustainable Technology and Engineering Management (ICSTEM).
+- 🌍 Presented technical concepts at an international conference.
+- 🎤 Presented technical concepts at a national-level symposium.
 
 ---
 
@@ -157,25 +167,27 @@ To become an **Embedded Software Engineer** by building reliable firmware and em
 
 - Embedded Linux
 - Linux Device Drivers
+- Data Structures and Algorithms
+- ARM Architecture
 - RTOS Fundamentals
-- Embedded C
+- Embedded C Programming
 - Communication Protocols
 
 ---
 
-# 📫 Reach Me
+# 📫 Connect With Me
 
-📧 **Email:** **poomalar258@gmail.com**
+📧 **Email:** [poomalar258@gmail.com](mailto:poomalar258@gmail.com)
 
-💼 **LinkedIn:** https://linkedin.com/in/poomalar-r-3b6a172b5
+💼 **LinkedIn:** [Visit my LinkedIn Profile](https://linkedin.com/in/poomalar)
 
-🐙 **GitHub:** https://github.com/YOUR_USERNAME
+🐙 **GitHub:** [Explore my GitHub Projects](https://github.com/poomalar258-code)
 
 ---
 
 # 💬 Quote
 
-> **"Every line of code and every circuit is a step toward building smarter embedded systems."**
+> "Every line of code and every circuit is a step toward building smarter embedded systems."
 
 ---
 
@@ -183,7 +195,7 @@ To become an **Embedded Software Engineer** by building reliable firmware and em
 
 ### ⭐ Thanks for visiting my GitHub Profile!
 
-If you like my projects, don't forget to ⭐ my repositories.
+If you find my projects interesting, feel free to explore my repositories.
 
 🚀 Happy Coding!
 
